@@ -7,3 +7,5 @@ Tem finalidade de testar meus conhecimentos em responsividade e, conhecimentos g
 - consulta de cardápio
 - consulta das redes sociais da empresa
 
+## Clique aqui para conferir novas mudanças:
+https://pravocelanchesdelivery.netlify.app/
